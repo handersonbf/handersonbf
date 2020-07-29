@@ -8,7 +8,10 @@ Redes Sociais e conteúdo:
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/handersonbf)](https://twitter.com/handersonbf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/handersonfrota)](https://www.linkedin.com/in/handersonfrota)
 
+Conteúdo com dicas e tira dúvidas da TriadWorks:
 
 Canal TriadWorks: [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCYt1xAAYU4ysf5wJuR7dvyQ)](https://www.youtube.com/channel/UCYt1xAAYU4ysf5wJuR7dvyQ)
+
+[![BlogTriadWorks](https://img.shields.io/badge/Blog-http://blog.triadworks.com.br/-orange)](http://blog.triadworks.com.br/)
 
 Canal Goodbits_: [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCFLdWLaxiZ5x9N6YY-kbz9g)](https://www.youtube.com/channel/UCFLdWLaxiZ5x9N6YY-kbz9g)
